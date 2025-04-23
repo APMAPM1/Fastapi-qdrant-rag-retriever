@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+qdrant-client>=1.7.0
+sentence-transformers
+nltk
+python-dotenv 
